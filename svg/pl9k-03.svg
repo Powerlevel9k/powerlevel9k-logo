@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="378.1393433px" height="172.8426819px" viewBox="0 0 378.1393433 172.8426819"
+	 style="enable-background:new 0 0 378.1393433 172.8426819;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#F1F1F1;}
+	.st3{fill:none;}
+	.st4{opacity:0.18;fill:#4D4D4D;}
+	.st5{fill:url(#SVGID_2_);}
+	.st6{fill:#0F324B;}
+	.st7{fill:url(#SVGID_3_);}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="86.4213409" x2="378.1393433" y2="86.4213409">
+		<stop  offset="0" style="stop-color:#278AD1"/>
+		<stop  offset="1" style="stop-color:#3FA1E8"/>
+	</linearGradient>
+	<polygon class="st0" points="321.2166443,0 321.2166443,0.0351578 0.0231628,0.0351578 56.9227867,86.4037552 0,172.8075104 
+		0,172.8426819 321.2166443,172.8426819 321.2166443,172.8075104 378.1393433,86.4037552 	"/>
+	<g>
+		<path class="st1" d="M172.6739349,135.1972656h-23.4723816V98.7584381h-43.3336182V37.6551895h66.8059998V135.1972656z
+			 M129.3403168,75.2857666h19.8612366V61.1275673h-19.8612366V75.2857666z"/>
+		<g>
+			<polygon class="st1" points="244.302887,76.3130493 226.6819611,93.9301453 246.2901154,135.2495728 272.2714233,135.2495728 			
+				"/>
+			<polygon class="st1" points="207.6667786,37.7488976 184.1982422,37.7488976 184.1982422,92.4713745 184.1982422,125.3189697 
+				184.1982422,135.2495728 207.6667786,135.2495728 			"/>
+			<polygon class="st1" points="240.842804,69.0217514 272.1156006,37.7488976 238.9207306,37.7488976 215.2708435,61.3987846 
+				215.2708435,94.5887222 240.8428497,69.0218658 			"/>
+		</g>
+	</g>
+</g>
+</svg>

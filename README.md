@@ -1,3 +1,4 @@
+![Powerlevel 9k logo](https://raw.githubusercontent.com/toish/powerlevel9k-logo/master/logo.png)
 # Powerlevel 9K Theme Logo
 
 Assets for the [Powerlevel 9K Project](https://github.com/bhilburn/powerlevel9k). Discussion can be found on [this issue](https://github.com/bhilburn/powerlevel9k/issues/367)
